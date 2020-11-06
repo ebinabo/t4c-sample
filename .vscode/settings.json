@@ -1,0 +1,15 @@
+{
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "liveSassCompile.settings.showOutputWindow": false,
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "compact",
+            "extensionName": ".css",
+            "savePath": null
+        }
+    ]
+}
